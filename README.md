@@ -17,7 +17,6 @@ I have a growing pile of failed 3D prints. Instead of throwing them away, I want
 
 * **The Challenge:** Shredding ASA or PETG requires serious torque. I’m planning to use a NEMA 34 with a beefy worm gearbox. 
 * **Smart Features:** To prevent the motor from burning out when a part gets stuck, I’ll implement an auto-reverse routine.
-* **The "Industrial" Touch:** I’ve worked with **Modbus** before, so I’m thinking about using Modbus-capable sensors to monitor the load and system health in real-time.
 
 ---
 
@@ -25,7 +24,7 @@ I have a growing pile of failed 3D prints. Instead of throwing them away, I want
 Aside from the builds, I’m currently spending my free time on:
 * **Moving to STM32:** Exploring the ARM Cortex world for more "industrial-feeling" projects.
 * **Qt/QML:** Trying to make my project displays look less like 1995 and more like modern HMIs.
-* **PCB Design:** Moving my breadboard messes into clean, custom PCBs designed in Fusion 360.
+* **PCB Design:** Moving my breadboard and DIY PCB messes into clean, custom PCBs designed in Fusion 360.
 
 ---
 **Got ideas or better ways to solve these?** Feel free to open an issue – I'm always down for a technical chat!
